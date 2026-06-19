@@ -3,10 +3,10 @@ import requests
 
 API_KEY = "827715ada2594813a67ac2baeab77b56"
 
-st.set_page_config(
-    page_title="News Search App",
-    page_icon="",
-    layout="wide"
+# st.set_page_config(
+#     page_title="News Search App",
+#     page_icon="",
+#     layout="wide"
 )
 
 st.title(" AI News Search App")
