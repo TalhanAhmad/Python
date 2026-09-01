@@ -6,7 +6,8 @@
         print("Something went wrong:", e)
 
 
-
+  except Exception as e:
+        print("Something went wrong:", e)
 
 
 
