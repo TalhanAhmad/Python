@@ -1,3 +1,14 @@
+  except Exception as e:
+        print("Something went wrong:", e)
+
+
+
+
+
+
+
+
+
 import requests
 
 API_KEY = "3157c0eafa154fab8c8194316261606"
